@@ -1,2 +1,2 @@
-## Screenshoot MuseumBrawijaya
-![Deskripsi Screenshot](Gambar/Home1.JPG)
+## Screenshoot Museum Brawijaya
+!["HOME 1"](Gambar/Home1.JPG)
